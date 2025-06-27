@@ -19,6 +19,6 @@ Projeto desenvolvido na disciplina de Processamento de Linguagem Natural (UFABC 
 - BeautifulSoup
 
 ## 📑 Desenvolvido por
-Leonardo Garcia [@leonardogarca](https://github.com/leonardogarca)
-Marcos Moreira Lopes
-Ronaldo Ávila A. Jr [@Ragnavald](https://github.com/Ragnavald)
+- Leonardo Garcia [@leonardogarca](https://github.com/leonardogarca)
+- Marcos Moreira Lopes
+- Ronaldo Ávila A. Jr [@Ragnavald](https://github.com/Ragnavald)
