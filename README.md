@@ -1,6 +1,6 @@
 # 📉 Análise de Commodities com LLMs e Séries Temporais
 
-Projeto desenvolvido na disciplina de Processamento de Linguagem Natural (UFABC - 2024.Q2) com foco na análise de tendências de commodities. A abordagem combina notícias financeiras e indicadores técnicos (médias móveis simples e exponenciais), utilizando LLMs via LangChain para realizar a sumarização e a análise de sentimentos, cruzando esses sinais com séries históricas para identificar possíveis movimentos de mercado.
+Projeto desenvolvido na disciplina de Processamento de Linguagem Natural (UFABC - 2024.Q2) com foco na análise de tendências de commodities. A abordagem aproveita notícias, utilizando LLMs via LangChain para realizar a sumarização e a análise de sentimentos, cruzando esses sinais com séries históricas para identificar possíveis movimentos dos preços de determinado commodity.
 
 
 [Link para o Notebook no Colab](https://colab.research.google.com/drive/1bPe4GSJunPaUDU2LJfEtbymimWOM2Bp6?usp=sharing)
